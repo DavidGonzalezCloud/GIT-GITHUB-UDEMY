@@ -1,0 +1,4 @@
+# SABER QUE VERSION TENEMOS DE GIT
+    git --version
+
+ 
