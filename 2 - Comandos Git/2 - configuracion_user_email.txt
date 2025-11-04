@@ -4,7 +4,7 @@
     git config --global user.name "David Gonzalez"
     git config --global user.email "contoso@outlook.com"
 
-# PARA VERIFICAR ESTA CONFIGURACION LO PODEMOS HACER CON:
+# PARA VERIFICAR ESTA CONFIGURACION GLOBAL LO PODEMOS HACER CON:
 
     git config --global -e
 

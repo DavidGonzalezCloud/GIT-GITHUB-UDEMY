@@ -1,0 +1,11 @@
+# ESTE COMANDO SIRVE PARA VER EN QUE RAMA ESTAMOS TRABAJANDO
+    git branch
+
+# ESTE COMANDO SIRVE PARA CAMBIAR EL NOMBRE DE LA RAMA MASTER
+    git branch -m master main
+
+# PARA HACER QUE EL NOMBRE DE LA RAMA PRINCIPA DE CADA
+# PROYECTO SEA SIEMPRE MAIN O NO MASTER
+    git config --global init.defaultBranch <name>
+    git config --global init.defaultBranch main
+
