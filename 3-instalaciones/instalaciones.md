@@ -3,3 +3,11 @@
 '''
 yarn install
 '''
+
+## NOTAS
+
+debemos de tener en cuenta que omitiremos:
+node_module
+
+.log
+.editorconfig
