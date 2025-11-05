@@ -11,3 +11,9 @@ node_module
 
 .log
 .editorconfig
+
+.log
+.editorconfig
+
+.log
+.editorconfig
