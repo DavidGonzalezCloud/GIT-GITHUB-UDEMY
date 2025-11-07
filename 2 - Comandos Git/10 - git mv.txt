@@ -1,0 +1,3 @@
+# RENOMBRAR UN ARCHIVO
+    git mv <Numbre Actual> <nuevo Nombre>
+

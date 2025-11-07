@@ -1,0 +1,2 @@
+# ELIMINAR UN ARCHIVO
+    git rm <Nombre Archivo>
