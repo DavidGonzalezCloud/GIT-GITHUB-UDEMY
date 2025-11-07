@@ -9,3 +9,11 @@
     git config --global init.defaultBranch <name>
     git config --global init.defaultBranch main
 
+# CREAR UNA NUEVA RAMA
+    git branch NOMBRE
+
+# MOVERNOS A LA RAMA QUE QUEREMOS
+    git checkout <nombre rama>
+
+
+
