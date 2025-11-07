@@ -15,5 +15,18 @@
 # MOVERNOS A LA RAMA QUE QUEREMOS
     git checkout <nombre rama>
 
+# UNIR RAMA AL MASTER
+# HAY QUE MOVERNOS PRIMERO A LA RAMA MASTER
+    git merger <nombre rama>
+
+# BORRAR RAMA
+    git branch -d <nombre rama>
+
+# CREAR UNA RAMA Y MOVERNOS A ESE RAMA EN UN SOLO PASO
+    git checkout -b <nombre rama>
+
+
+
+
 
 
