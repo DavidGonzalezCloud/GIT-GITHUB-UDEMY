@@ -5,4 +5,8 @@
 3. Flash Reverso
 4. Doomsday
 
+<<<<<<< HEAD
 # Notas:
+=======
+# Notas
+>>>>>>> rama-villanos
