@@ -1,3 +1,7 @@
 # CUANDO TENEMOS UNA RAMA Y QUEREMOS AGREGAR ESA RAMA A MASTER
 # TENEMOS QUE ESTAR UBICADOS EN LA RAMA MASTER
     git merge <nombre rama>
+
+# ELIMINAR UNA RAMA
+    git branch -d <nombre rama>
+
