@@ -1,0 +1,24 @@
+# CREAR TAG
+    git tag <nombre tag>
+
+# ELINAR TAG
+    git tag -d <nombre tag>
+
+# VER LISTA DE TODOS LOS TAGS CREADOS
+    git tag
+
+# RELEASE TAG
+    git tag -a V1.0.0 -m "Version 1.0.0 lista"
+
+# VERSIONAMIENTO SEMANTICO
+v = Version
+1 = Actualizacion mayor del programa
+0 = se agrego una caracteristica
+0 = Se resolvio en bug o conflictos
+
+# AGREGAR TAG A UN COMMIT ANTIGUO
+    git tag -a <version> <ID del commit> -m <mensaje commit>
+
+# VER INFORMACION DE UN COMMIT A TRAVES DE UN TAG
+    git show v0.1.0
+    
