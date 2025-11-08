@@ -1,0 +1,18 @@
+# CREAR UN NUEVO STASH
+    git stash
+
+# Eliminar el stash 0
+    git stash drop
+
+# Eliminar un stash especifico
+    git stash drop stash@{1}
+
+# ELIMINAR TODOS LOS STASH
+    git stash clear
+
+# VER LA LISTA DE LOS STASH
+    git stash list
+
+# REGRESAMOS LA INFORMACION DE STASH A LA RAMA
+    git stash pop
+
