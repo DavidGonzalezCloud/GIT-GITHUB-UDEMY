@@ -1,0 +1,8 @@
+# SIRVE PARA REORGANIZAR LAS RAMAS
+    git rebase master
+
+# MODIFICAR LOS COMMITS
+    git rebase -i HEAD~4
+        squash = fusionar dos commits
+        reword = modificar nombres
+
