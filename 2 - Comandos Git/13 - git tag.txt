@@ -21,4 +21,3 @@ v = Version
 
 # VER INFORMACION DE UN COMMIT A TRAVES DE UN TAG
     git show v0.1.0
-    

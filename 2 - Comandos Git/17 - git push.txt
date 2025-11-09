@@ -1,0 +1,5 @@
+# HACEMOS PUSH AL REPOSITORIO EN GITHUB
+    git push -u origin master
+
+# SUBIR LOS TAGS A GITHUB
+    git push --tags
