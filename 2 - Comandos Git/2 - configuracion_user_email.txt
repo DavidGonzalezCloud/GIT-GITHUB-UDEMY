@@ -13,4 +13,8 @@
 
     :wq! 
 
+# CONFIGURAR QUE CUANDO HAGAMOS UN PULL AL REPO SOLO SE EJECUTE SI ES UN PULL FAST FORWARD
+     git config --global pull.ff only
+    
+    
 

@@ -1,3 +1,6 @@
 # CONECTAR MI REPOSITORIO LOCAL CON EL REPOSITORIO CREADO EN GITHUB
     git remote add origin <link del repositorio>
 
+# VER LOS URL DEL REPOSITORIO
+    git remote -v
+
