@@ -1,0 +1,8 @@
+# CLONAR UN REPOSITORIO DESDE GITHUB
+
+# NOS VEMOS A LA CARPETA ADONDE SE VA A CLONAR LA REPO
+    cd <url de carpeta>
+
+# CLONAMOS EL PROYECTO
+    git clone <link de el repo>
+

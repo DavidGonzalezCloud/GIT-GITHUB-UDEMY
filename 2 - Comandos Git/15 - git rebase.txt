@@ -6,3 +6,6 @@
         squash = fusionar dos commits
         reword = modificar nombres
 
+# TERMINAR REBASE INTERECTIVO
+    git rebase --continue
+
