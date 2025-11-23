@@ -1,0 +1,2 @@
+# Un fork es cuando copiamos un repositorio completo 
+# que sea publico a nuestra cuenta de GitHub

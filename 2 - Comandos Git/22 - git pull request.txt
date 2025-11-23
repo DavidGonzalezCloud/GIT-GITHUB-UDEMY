@@ -1,0 +1,5 @@
+# PULL REQUEST
+Un pull request es cuando queremos colaborar con un repositorio 
+en el cual no tenemos permisos de escritura.
+
+El pull request es una solicitud para que los cambios que hemos hecho sea agregados al repositorio

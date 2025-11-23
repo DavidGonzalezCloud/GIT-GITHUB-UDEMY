@@ -3,3 +3,8 @@
 
 # REGRESAR A LA VERSION ANTERIOR DE UN ARCHIVO EN ESPECIFICO
     git checkout -- <nombre archivo>
+
+# REGRESAR A LA VERSION ANTERIOR DE UN COMMIT ESPECIFICO
+    git checkout <commit id> <nombre archivo>
+
+    
